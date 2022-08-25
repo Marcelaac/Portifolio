@@ -1,0 +1,90 @@
+body{
+    font-family: 'Josefin Sans', sans-serif;
+    color: rgb(17, 16, 16);
+    background-color: rgb(252, 252, 252);
+    
+}
+
+
+.foto-de-fundo{
+    position: fixed;
+    height: 100%;
+    width: 35%;
+    top:0;
+    left: 0;
+
+}
+.main-header-imagem2{
+    position: fixed;
+    top: 20px;
+    height: 5%;
+    width: 25%;
+    
+    }
+
+.main-header-imagem {
+    position: fixed;
+    top: 50px;
+    left: 110px;
+    
+}
+
+.texto{
+    position: fixed;
+    top: 290px;
+    left: 70px;
+    height: 40%;
+    width: 30%;
+    color: white;
+
+}
+
+
+.main-content-section {
+    margin-left: 35%;
+    line-height: 0.7cm;
+    padding: 80px 54px 72px;
+    box-sizing: border-box;
+    color: black;
+}
+
+
+.button-default{
+
+    color: black;
+    text-decoration: none;
+    font-size: 25px;
+    box-shadow: 0 8px 6px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    border-radius:0.1cm ;
+    border: 2px solid #0691b4;
+    
+}
+
+.main-content-section2{
+
+    margin-left: 35%;
+    line-height: 0.7cm;
+    padding: 10px 54px 60px;
+    box-sizing: border-box;
+    
+}
+
+.recente-works-card{
+
+    justify-content: space-around;
+}
+
+.main-footer {
+
+    position: fixed;
+    top: 410px;
+    height: 5%;
+    width: 25%;
+    color: white;
+    left: 0;
+    bottom: 0;
+    box-sizing: border-box;
+    justify-content: space-around;
+  
+    
+}
